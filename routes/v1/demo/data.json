@@ -1,0 +1,33 @@
+{
+  "lines": [
+    {
+      "id": 1,
+      "name": "iPhone"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 4"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 6"
+    }
+  ],
+  "models": [
+    {
+      "id": 1,
+      "name": "a356773",
+      "lineId": 3
+    },
+    {
+      "id": 2,
+      "name": "a58332",
+      "lineId": 2
+    },
+    {
+      "id": 3,
+      "name": "aw8324",
+      "lineId": 1
+    }
+  ]
+}
