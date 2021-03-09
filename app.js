@@ -4,7 +4,7 @@ const app = express();
 const path = require('path');
 const routes = require('./routes');
 
-app.use(express.static(path.join(__dirname, 'reactBuild')));
+app.use(express.static(path.join(__dirname, 'routes', 'reactBuild')));
 //  Connect all our routes to our application
 app.use('/', routes);
 
